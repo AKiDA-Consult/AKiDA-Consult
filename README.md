@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning to get more familiar with PowerShell 
 - 💞️ I’m looking to collaborate on any cool things that can enhance an information architecture
 - 📫 How to reach me team@akida.co.nz is the best way
-- 😄 Pronouns: she/her/they
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: I once was an extra in a television series
 
 <!---
